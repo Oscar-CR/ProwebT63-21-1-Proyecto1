@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size:  62.5%;
+    background-image: url(../img/index.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+main a{
+    padding:0;
+    position: absolute; 
+    margin-left: 45%;
+    margin-top: 30rem;
+    width: 20rem;
+    height: 20rem;
+    background-color: rgba(0, 0, 0, 0.815);
+    border-radius: 10%;
+}
+
+main a:hover{
+    background-color: black;
+}
+
+main img{
+    padding-left: 0;
+    padding-top: 0;
+    width: 10rem;
+    height: 10rem;
+    margin-top: 25%;
+    margin-left: 25%;
+}
+
